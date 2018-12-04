@@ -43,3 +43,4 @@ It is not a MAGIC number
 ### Implemented in:
 
 - [C++](magic.cpp)
+- [C](magic.c)
